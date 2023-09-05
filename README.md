@@ -7,7 +7,7 @@
 1. [Introduction to Algorithms: Unleashing the Power of Problem-Solving](./Chapter-1/)
 2. [The Foundations of Algorithm Analysis: Understanding Efficiency Metrics](./Chapter-2/)
 3. [Sorting Algorithms: From Bubble to Merge, Making Order from Chaos](./Chapter-3/)
-4. Searching Algorithms: Quest for Data in a Sea of Information
+4. [Searching Algorithms: Quest for Data in a Sea of Information](./Chapter-4/)
 5. Greedy Algorithms: The Art of Making Optimal Choices
 6. Divide and Conquer: Breaking Down Problems, Building Solutions
 7. Dynamic Programming: Memoization and Optimal Substructure
@@ -42,19 +42,19 @@ By the end of our odyssey, you will be equipped with a profound understanding of
 
 So, let us embark on this thrilling adventure into the world of algorithms and uncover the secrets that drive the heart of efficient computing.
 
-## Chapter 1: Introduction to Algorithms: Unleashing the Power of Problem-Solving
+## [Chapter 1: Introduction to Algorithms: Unleashing the Power of Problem-Solving](./Chapter-1/) 
 
 In the opening chapter of our "Algorithmic Odyssey," we embark on a journey to unravel the essence of algorithms. We begin by understanding what algorithms are and why they hold such critical importance in computer science and problem-solving. Delving into the fundamentals, we explore algorithmic design principles and analyze their efficiency metrics. By the end of this chapter, you will have a solid grasp of the building blocks that form the backbone of computation.
 
-## Chapter 2: The Foundations of Algorithm Analysis: Understanding Efficiency Metrics
+## [Chapter 2: The Foundations of Algorithm Analysis: Understanding Efficiency Metrics](./Chapter-2/)
 
 In this chapter, we delve deeper into the realm of algorithm analysis and efficiency metrics. We explore the fundamental concepts of time and space complexity, equipping readers with the tools to evaluate algorithms based on their performance characteristics. Understanding these essential metrics will allow us to make informed choices when selecting algorithms for specific tasks.
 
-## Chapter 3: Sorting Algorithms: From Bubble to Merge, Making Order from Chaos
+## [Chapter 3: Sorting Algorithms: From Bubble to Merge, Making Order from Chaos](./Chapter-3/)
 
 Building upon our introduction to sorting algorithms in Chapter 1, we take a comprehensive look at various sorting techniques. From the elementary Bubble Sort to the sophisticated Merge Sort, we analyze their algorithms, performance, and applications. By the end of this chapter, readers will be well-versed in the art of sorting, an indispensable skill in numerous computing tasks.
 
-## Chapter 4: Searching Algorithms: Quest for Data in a Sea of Information
+## [Chapter 4: Searching Algorithms: Quest for Data in a Sea of Information](./Chapter-4/)
 
 Searching algorithms form the bedrock of information retrieval, and in this chapter, we embark on a quest to explore them. From the linear search to binary search and beyond, we investigate the strategies employed by these algorithms to find data efficiently. Additionally, we discuss the importance of choosing the right searching technique for different data structures and scenarios.
 
