@@ -58,27 +58,27 @@ Building upon our introduction to sorting algorithms in Chapter 1, we take a com
 
 Searching algorithms form the bedrock of information retrieval, and in this chapter, we embark on a quest to explore them. From the linear search to binary search and beyond, we investigate the strategies employed by these algorithms to find data efficiently. Additionally, we discuss the importance of choosing the right searching technique for different data structures and scenarios.
 
-## Chapter 5: Greedy Algorithms: The Art of Making Optimal Choices
+## [Chapter 5: Greedy Algorithms: The Art of Making Optimal Choices](./Chapter-5)
 
 In this chapter, we dive into the fascinating world of greedy algorithms, where making locally optimal choices leads to globally efficient solutions. We analyze classic greedy algorithms and demonstrate how they provide optimal solutions for specific problems. Through real-world examples, we showcase the power and limitations of this approach in problem-solving.
 
-## Chapter 6: Divide and Conquer: Breaking Down Problems, Building Solutions
+## [Chapter 6: Divide and Conquer: Breaking Down Problems, Building Solutions](./Chapter-6)
 
 Divide and Conquer is a powerful problem-solving paradigm, and in this chapter, we explore its inner workings. We dissect algorithms that employ this approach, such as Merge Sort and QuickSort, to understand how they break down complex problems into manageable subproblems. Readers will gain insights into the design and analysis of these ingenious algorithms.
 
-## Chapter 7: Dynamic Programming: Memoization and Optimal Substructure
+## [Chapter 7: Dynamic Programming: Memoization and Optimal Substructure](./Chapter-7)
 
 Dynamic Programming is a technique that allows us to solve complex problems by breaking them down into overlapping subproblems. In this chapter, we study this approach, focusing on memoization and optimal substructure. We delve into classic examples like the Fibonacci series and discuss how dynamic programming optimizes solutions by avoiding redundant computations.
 
-## Chapter 8: Backtracking: Navigating the Decision Maze
+## [Chapter 8: Backtracking: Navigating the Decision Maze](./Chapter-8)
 
 Backtracking is a systematic technique used to find solutions to problems through exhaustive search. In this chapter, we explore how backtracking algorithms work, including the famous N-Queens and Sudoku problems. Understanding backtracking will enable readers to tackle combinatorial problems efficiently and arrive at viable solutions.
 
-## Chapter 9: Graph Algorithms: Traversing Networks and Paths
+## [Chapter 9: Graph Algorithms: Traversing Networks and Paths](./Chapter-9)
 
 Graphs are fundamental data structures in computer science, and this chapter is dedicated to exploring graph algorithms. From breadth-first search (BFS) to depth-first search (DFS) and Dijkstra's algorithm, we navigate the diverse landscape of graph traversal and pathfinding. We showcase the role of graphs in modeling real-world problems and finding optimal routes.
 
-## Chapter 10: String Algorithms: Taming Textual Tangles
+## [Chapter 10: String Algorithms: Taming Textual Tangles](./Chapter-10)
 
 Strings are essential in text processing, and this chapter focuses on algorithms that manipulate and analyze strings. We investigate pattern matching techniques like the Knuth-Morris-Pratt algorithm and the Boyer-Moore algorithm. Additionally, we explore string compression and other string-related algorithms that contribute to efficient text processing.
 

@@ -33,7 +33,7 @@ This ves into the need for algorithms to provide clear and understandable reason
 ## Ethical Considerations in AI
 The rise of AI brings forth ethical dilemmas that are complex and multifaceted. We'll examine issues such as the use of autonomous weapons, deepfake technology, and the impact of AI on employment.
 
-Ethical frameworks and guidelines are crucial in navigating these challenges. This ourages a thoughtful exploration of the ethical dimensions of AI and how societies and organizations can make principled decisions in the face of technological advancement.
+Ethical frameworks and guidelines are crucial in navigating these challenges. This ourages a thoughtful exploring the ethical dimensions of AI and how societies and organizations can make principled decisions in the face of technological advancement.
 
 ## Algorithmic Accountability
 Accountability is paramount in a world increasingly reliant on algorithms. Organizations and developers bear the responsibility of ensuring that algorithms are used ethically and responsibly.
@@ -73,4 +73,4 @@ The challenges are great, but so is our capacity to innovate and create solution
 - Chapter 8 explores pressing challenges in the world of algorithms.
 - It delves into algorithmic bias, security threats, transparency, ethics, and accountability.
 - The chapter emphasizes the importance of addressing these issues for responsible algorithmic use.
-- It serves as a call to action to ensure that technology benefits all of humanity.
+- It serves as a call to action to ensure that technology benefits all humanity.
