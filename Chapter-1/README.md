@@ -5,13 +5,22 @@
 * [What Are Algorithms?](#what-are-algorithms)
 * [Why Algorithms Matter?](#why-algorithms-matter)
 * [Designing Efficient Algorithms](#designing-efficient-algorithms)
-* [Measuring Efficiency - Big O Notation](#measuring-efficiency---big-o-notation)
+* [Measuring Efficiency—Big O Notation](#measuring-efficiencybig-o-notation)
 * [Case Study - Sorting Algorithms](#case-study---sorting-algorithms)
 * [Conclusion](#conclusion)
 * [Notes](#notes)
   * [Brief](#brief)
 
-we embark on an immersive journey into the world of algorithms. We explore what algorithms are and their vital role in computer science and problem-solving. The chapter introduces algorithmic design principles and efficiency metrics. Through relatable examples, we showcase how algorithms impact daily life and drive technological advancements. By understanding efficiency metrics like Big O notation, readers gain insights into evaluating algorithm performance. The chapter concludes with a case study on sorting algorithms, laying the groundwork for our exploration of various algorithmic families in the **Algorithmic Odyssey.**
+We embark on an immersive journey into the world of algorithms. 
+We explore what algorithms are and their vital role in computer science and problem-solving. 
+The chapter introduces algorithmic design principles and efficiency metrics. 
+Through relatable examples, we showcase how algorithms impact daily life and 
+drive technological advancements. 
+By understanding efficiency metrics like Big O notation, 
+readers gain insights into evaluating algorithm performance.
+The chapter concludes with a case study on sorting algorithms, 
+laying the groundwork for our exploration of various algorithmic families in the 
+**Algorithmic Odyssey.**
 
 ## What Are Algorithms?
 
@@ -25,7 +34,7 @@ Understanding the significance of algorithms is crucial for appreciating their i
 
 In this section, we dive into the art of algorithmic design, exploring the key principles that underpin efficient solutions. We examine strategies like abstraction, modularity, and optimization, enabling us to craft algorithms that solve complex problems with elegance and effectiveness. Furthermore, we discuss the importance of algorithm analysis to determine their efficiency and scalability.
 
-## Measuring Efficiency - Big O Notation
+## Measuring Efficiency—Big O Notation
 
 In this section, we introduce the Big O notation, a powerful tool used to evaluate the efficiency of algorithms. We explain how to analyze the time and space complexity of algorithms and how this knowledge helps in selecting the most suitable algorithm for a given task. Real-world examples and visual aids accompany this discussion to solidify understanding.
 
@@ -53,8 +62,8 @@ The first leg of our "Algorithmic Odyssey" has laid the groundwork for our adven
 
 ### Brief
 
-* Introduce world of algorithms, their importance in computer science, and problem-solving.
+* Introduce the world of algorithms, their importance in computer science, and problem-solving.
 * Algorithmic design principles and efficiency metrics explored.
-* Real-world examples to illustrate algorithmic impact in daily life and technology.
+* Real-world examples to illustrate algorithmic impact on daily life and technology.
 * **Big O notation** introduced for time complexity evaluation.
 * Preparation for subsequent exploration of algorithmic families.

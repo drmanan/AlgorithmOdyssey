@@ -48,7 +48,10 @@ Get ready for Quick Sort, a popular and efficient algorithm that uses a "divide 
 
 ## Radix Sort
 
-Last but not least, we'll explore Radix Sort. This unique algorithm takes a non-comparative approach and is perfect for sorting numbers or strings with fixed-length keys. It's like organizing books on a shelf based on the digits in their ISBN numbers.
+Last but not least, we'll explore Radix Sort.
+This unique algorithm takes a non-comparative approach 
+and is perfect for sorting numbers or strings with fixed-length keys. 
+It's like organizing books on a shelf based on the digits in their ISBNs.
 
 ## Comparison and Selection of Sorting Algorithms
 
@@ -65,7 +68,7 @@ Congratulations! You've journeyed through the enchanting world of sorting algori
 Here we delve into the fascinating world of sorting algorithms, where we unravel the art of arranging elements in a specific order. Sorting is a fundamental operation in computer science, enabling us to find patterns, search efficiently, and facilitate data manipulation. In this chapter, we explore a diverse array of sorting techniques, ranging from the simple and intuitive Bubble Sort to the efficient and sophisticated Merge Sort. By understanding the inner workings of these algorithms, readers will gain invaluable insights into the principles of algorithmic design and performance optimization.
 
 * Section 1: The Importance of Sorting Algorithms
-Emphasize the significance of sorting algorithms in various applications.
+This emphasizes the significance of sorting algorithms in various applications.
 Illustrate how sorting facilitates searching and enhances data manipulation.
 Discuss the impact of sorting on database operations and information retrieval.
 * Section 2: Bubble Sort
@@ -81,6 +84,7 @@ Introduce Insertion Sort, a simple algorithm suitable for small data sets.
 Explain the concept of a sorted and unsorted portion of the array.
 Analyze its time complexity and how it performs in practice.
 * Section 5: Merge Sort
+
 Dive into Merge Sort, a divide-and-conquer algorithm with excellent efficiency.
 Illustrate how it breaks down the problem into smaller subproblems.
 Explore its time complexity and stability, making it a versatile choice.
@@ -106,8 +110,8 @@ Emphasize the importance of selecting the right sorting technique based on data 
 * This chapter explores sorting algorithms, essential for organizing data.
 * **Importance**: Sorting enhances searching, optimizes databases, and simplifies data manipulation.
 * **Bubble Sort**: Simple algorithm; elements "bubble up" through comparisons; not efficient for large datasets.
-* **Selection Sort**: Picks smallest element and places it in order; more efficient than Bubble Sort.
-* **Insertion Sort**: Builds sorted array by inserting elements in proper positions; useful for nearly sorted data.
+* **Selection Sort**: Picks the smallest element and places it in order; more efficient than Bubble Sort.
+* **Insertion Sort**: Builds a sorted array by inserting elements in proper positions; useful for nearly sorted data.
 * **Merge Sort**: Efficient divide-and-conquer algorithm; divides, sorts, and merges to create a sorted array.
 * **Quick Sort**: "Divide and conquer" strategy; efficiently sorts elements by partitioning.
 * **Radix Sort**: Non-comparative algorithm; sorts digits from least to most significant; suited for fixed-length keys.

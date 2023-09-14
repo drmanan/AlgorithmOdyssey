@@ -85,8 +85,10 @@ about which one to choose.
 
 ## Conclusion
 
-Congratulations! You've now mastered the art of finding hidden treasures with searching algorithms. Whether it's
-navigating unsorted data with Linear Search, efficiently seeking through sorted data with Binary Search, or making
+Congratulations!
+You've now become skilled in the art of finding hidden treasures with searching algorithms. 
+Whether it's navigating unsorted data with Linear Search, 
+efficiently seeking through sorted data with Binary Search, or making
 intelligent guesses with Interpolation and Exponential Search, you now have a toolbox of techniques to tackle any search
 adventure.
 
